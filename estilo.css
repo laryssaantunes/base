@@ -1,3 +1,13 @@
 body {
   background: #CCC;
 }
+
+.produto-card{
+  margin: 30px;
+  background-color: blueviolet;
+  display: inline-block;
+  overflow:hidden ;
+  padding: 5px;
+  height: 350px;
+  width: 250px;
+}
